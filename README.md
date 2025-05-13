@@ -109,11 +109,11 @@ Se você quiser sugerir melhorias, corrigir algum erro ou adicionar novas funcio
    ```
 3. Commit suas alterações:
     ```bash
-git commit -m 'Minha contribuição'
+   git commit -m 'Minha contribuição'
     ```
 4. Push para a sua branch:
     ```bash
-git push origin minha-contribuicao
+   git push origin minha-contribuicao
     ```
 5. Abra um Pull Request.
 
